@@ -1,7 +1,7 @@
 # Spring Boot REST API with JPA
 
 ## Description
-A Spring Boot REST API for managing employees using JPA for data persistence. Supports CRUD operations and interacts with an H2 in-memory database.
+A Spring Boot REST API for managing employees using JPA for data persistence. Supports CRUD operations and interacts with an MySQL in-memory database.
 
 ## Tech Stack
 - Java 17
@@ -9,3 +9,4 @@ A Spring Boot REST API for managing employees using JPA for data persistence. Su
 - Spring Data JPA
 - MySQl Database
 - Maven
+- Docker
